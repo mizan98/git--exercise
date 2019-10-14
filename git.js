@@ -14,3 +14,7 @@ console.log("My name is Mizan")
                                                                                 // git config --global user.email mizan_98@hotmail.co.uk
 
 //to push files to github do :git push -u origin master
+
+let name = "mizan Choudhury"
+
+console.log(`this is a test to practice using git with diofferent changes ${name}`)
